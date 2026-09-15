@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://resumemetrics-a31f.onrender.com",
+  baseURL: "https://resumemetrics-a31f.onrender.com/api",
 });
 
 export const analyzeResume = async (file) => {
