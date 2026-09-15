@@ -7,7 +7,7 @@ import {
   Layers,
   Target,
 } from "lucide-react";
-import "./CarrierRoadaMap.css";
+import "./CarrierRoadMap.css";
 
 /* ---------------------------------------------
    Helpers
